@@ -3,8 +3,8 @@
 Gemini is a modern LaTeX [beamerposter] theme.
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-gemini.pdf">
-<img src="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-gemini-small.png">
+<a href="[https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-gemini.pdf](https://github.com/user-attachments/files/23269328/poster.pdf)">
+<img src="https://private-user-images.githubusercontent.com/11033656/508421917-9c1d5510-e791-47c0-adcf-06eef0ed1724.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjIyODExNjQsIm5iZiI6MTc2MjI4MDg2NCwicGF0aCI6Ii8xMTAzMzY1Ni81MDg0MjE5MTctOWMxZDU1MTAtZTc5MS00N2MwLWFkY2YtMDZlZWYwZWQxNzI0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTA0VDE4Mjc0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk4YTRkZWEwYjg3YWM1OTE4ZDhkMTAwMTFjZjE5Y2ZhMGQxY2NhMzA1YjVjOTk2OGY5ZTM3NDJlZWU1YzJhM2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0._EajAjTsrxv0zYyDt-_PdUwp69hYfVXNCRPjwmvd2OQ">
 </a>
 </p>
 
